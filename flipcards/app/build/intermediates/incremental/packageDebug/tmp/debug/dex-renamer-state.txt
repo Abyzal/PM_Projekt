@@ -1,9 +1,9 @@
-#Wed Dec 17 20:34:09 CET 2025
-base.0=C\:\\Users\\marti\\AndroidStudioProjects\\flipcardsA\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\marti\\AndroidStudioProjects\\flipcardsA\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\marti\\AndroidStudioProjects\\flipcardsA\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.3=C\:\\Users\\marti\\AndroidStudioProjects\\flipcardsA\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.4=C\:\\Users\\marti\\AndroidStudioProjects\\flipcardsA\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Thu Dec 18 11:33:38 CET 2025
+base.0=C\:\\Users\\adamk\\Desktop\\Appka\\flipcards\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\adamk\\Desktop\\Appka\\flipcards\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\adamk\\Desktop\\Appka\\flipcards\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Users\\adamk\\Desktop\\Appka\\flipcards\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.4=C\:\\Users\\adamk\\Desktop\\Appka\\flipcards\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=5/classes.dex

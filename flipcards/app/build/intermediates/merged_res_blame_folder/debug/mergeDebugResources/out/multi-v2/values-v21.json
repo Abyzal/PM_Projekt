@@ -4,7 +4,7 @@
             "outputFile": "com.adamkvasny.flipcards.app-mergeDebugResources-50:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marti\\.gradle\\caches\\8.13\\transforms\\15445891dfc9e7002fa226859bad569d\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\adamk\\.gradle\\caches\\8.13\\transforms\\15445891dfc9e7002fa226859bad569d\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
